@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539635713 source:c:\users\roobe\onedrive\cpp_folder\hw6p3\numbertox.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+

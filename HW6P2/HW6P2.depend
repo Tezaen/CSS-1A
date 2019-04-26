@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539305245 source:c:\users\roobe\onedrive\cpp_folder\hw6p2\love.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538173550 source:c:\users\roobe\onedrive\cpp_folder\hw5p3\rps.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

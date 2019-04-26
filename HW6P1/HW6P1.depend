@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539381534 source:c:\users\roobe\onedrive\cpp_folder\hw6p1\lettercounter.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+
