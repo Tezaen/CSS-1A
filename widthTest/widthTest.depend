@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536097876 source:c:\users\roobe\onedrive\cpp_folder\widthtest\widthtest.cpp
+	<iomanip>
+	<iostream>
+

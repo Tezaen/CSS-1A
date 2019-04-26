@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536875502 source:c:\users\roobe\onedrive\cpp_folder\sept132018classnotes\sept13.cpp
+	<cmath>
+	<iostream>
+	<cstdlib>
+
