@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1542145890 source:c:\users\roobe\onedrive\cpp_folder\nov13notes\files.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<cassert>
+

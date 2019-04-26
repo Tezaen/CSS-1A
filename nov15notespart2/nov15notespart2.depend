@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1542318357 source:c:\users\roobe\onedrive\cpp_folder\nov15notespart2\readingfiles.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<cassert>
+	<iomanip>
+

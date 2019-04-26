@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538690381 source:c:\users\roobe\onedrive\cpp_folder\oct4notes\notes.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+
