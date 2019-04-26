@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538083105 source:c:\users\roobe\onedrive\cpp_folder\lab7p1\lab7p1.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+

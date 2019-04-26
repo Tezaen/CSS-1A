@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538520304 source:c:\users\roobe\onedrive\cpp_folder\lab8p1\tutoringprogram.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+

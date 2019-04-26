@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538691422 source:c:\users\roobe\onedrive\cpp_folder\lab8p3\sequenceprogram.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543968379 source:c:\users\roobe\onedrive\cpp_folder\hw14p1\nums.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<cassert>
+	<iomanip>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538687446 source:c:\users\roobe\onedrive\cpp_folder\lab8p2\modeprogram.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+

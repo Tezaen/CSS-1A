@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540327807 source:c:\users\roobe\onedrive\cpp_folder\hw7p1\hw7p1.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<cassert>
+

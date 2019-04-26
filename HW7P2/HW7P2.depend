@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540331941 source:c:\users\roobe\onedrive\cpp_folder\hw7p2\contactsprogram.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<cassert>
+

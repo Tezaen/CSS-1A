@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538092420 source:c:\users\roobe\onedrive\cpp_folder\lab7p2\calc_pi.cpp
+	<iostream>
+	<cmath>
+
