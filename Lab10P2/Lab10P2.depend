@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539735847 source:c:\users\roobe\onedrive\cpp_folder\lab10p2\etchasketch.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+

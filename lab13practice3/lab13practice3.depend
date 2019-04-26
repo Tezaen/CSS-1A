@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541544432 source:c:\users\roobe\onedrive\cpp_folder\lab13practice3\practiceproblem3.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<cassert>
+

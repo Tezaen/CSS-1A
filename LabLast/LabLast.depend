@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543617260 source:c:\users\roobe\onedrive\cpp_folder\lablast\babynames.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<cassert>
+	<iomanip>
+

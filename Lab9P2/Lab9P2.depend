@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539126355 source:c:\users\roobe\onedrive\cpp_folder\lab9p2\sentence_and_word_counter.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539986668 source:c:\users\roobe\onedrive\cpp_folder\lab10p1\2darray.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+

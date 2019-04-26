@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540592937 source:c:\users\roobe\onedrive\cpp_folder\lab11\tictactoe.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<cassert>
+

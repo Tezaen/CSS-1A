@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539125652 source:c:\users\roobe\onedrive\cpp_folder\lab9p1\capitalizer.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+

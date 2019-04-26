@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541551189 source:c:\users\roobe\onedrive\cpp_folder\lab13projectprogram3\programprojectnumber3.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<cassert>
+
