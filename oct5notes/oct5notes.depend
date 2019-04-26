@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538776575 source:c:\users\roobe\onedrive\cpp_folder\oct5notes\oknowthisisepic.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+
